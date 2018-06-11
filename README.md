@@ -8,9 +8,13 @@
 
 ## Abstract: 
 This data set consists of 20000 messages taken from 20 newsgroups. 
-* Implemented Sklearn MultinomialNB(): Accuracy - 0.8394
-* Implemented Naive Bayes from scratch: Accuracy - 0.8422
+* Implemented Sklearn MultinomialNB()
+* Implemented Naive Bayes from scratch 
 * Comparison between the two classifier
+
+## Results:
+* Sklearn MultinomialNB(): 0.8394
+* Naive Bayes from scratch: 0.8422
 
 ## Clone the Project:
 ```git clone https://github.com/wikiabhi/Text-Classification.git```
